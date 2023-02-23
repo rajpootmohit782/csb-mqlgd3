@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,WACE,YAAa,CACb,4BAA6B,CAC7B,kBACF,CAEA,iBACE,WAEF,CACA,QACE,iBACF","file":"main.bd23b3f3.chunk.css","sourcesContent":[".board-row{\n  display: flex;\n  justify-content: space-evenly;\n  align-items: center;\n}\n\n.board-container{\n  margin: 80px;\n\n}\n.winner{\n  text-align: center;\n}"]}
